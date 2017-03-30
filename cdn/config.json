@@ -1,0 +1,7 @@
+{
+    "provider" : "<provider>",
+    "data_dir" : "<data_dir>",
+    "username" : "<username>",
+    "apiKey" : "<key>",
+    "container" : "<container>"
+}
