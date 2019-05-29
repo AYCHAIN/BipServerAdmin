@@ -1,3 +1,4 @@
+# **NOTICE:** This repository has been **DEPRECATED**. Do not use.
 This modules repo represents extended or admin only API's which are not publicly available through the community site.
 
 To Install Modules from bipio-modules
